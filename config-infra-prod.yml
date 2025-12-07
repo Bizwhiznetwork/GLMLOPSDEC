@@ -20,12 +20,12 @@ variables:
   # DO NOT TOUCH
 
   # For pipeline reference
-  resource_group: default_resourse_group
-  aml_workspace: demo_workspace
-  application_insights: demoworkspace1997734687
-  key_vault: demoworkspace9715646723
+  resource_group: Bizwhiznetwork
+  aml_workspace: glmlopsdec
+  application_insights: glmlopsdec0827351347
+  key_vault: glmlopsdec1614609689
   container_registry: a9c528dba4cc4042a824b912e74ef850
-  storage_account: demoworkspace0813584800
+  storage_account: glmlopsdec4011984459
   
   # # For terraform reference
   # terraform_version: 0.14.7
