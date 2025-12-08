@@ -1,0 +1,24 @@
+# Data files
+data/*.pkl
+data/train.csv/
+data/test.csv/
+data/model.pkl/
+
+# MLflow
+mlruns/
+data-science/src/mlruns/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+venv/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
